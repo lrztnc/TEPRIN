@@ -1,5 +1,5 @@
 
-package VR1;
+// package VR1;
 
 /**
  * Rrealizzare un programma che calcoli i due numeri più piccoli di una sequenza
