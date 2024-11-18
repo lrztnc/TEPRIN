@@ -1,3 +1,4 @@
+package Esercizi;
 // che epackage VR1;
 import java.io.*; // L'* sono tutte le funzioni input/output del modulo java. è la controparte di include <stdio.h>.
 
