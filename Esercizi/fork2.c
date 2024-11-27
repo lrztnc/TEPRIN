@@ -18,7 +18,6 @@ int main() {
         printf("Il mio papi ha il pid: %d\n", getpid());
         sleep(1);
         exit(1);
-
     }else{
         printf("Sono il processo padre con pid %d \n", getpid());
         sleep(2);
